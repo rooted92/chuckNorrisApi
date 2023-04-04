@@ -1,0 +1,40 @@
+header {
+    color: #f39237;
+}
+
+#searchJokes {
+    background-color: #39a9db;
+    color: #f39237;
+}
+
+#searchJokes:hover {
+    box-shadow: 0 0 15px 5px #f39237;
+}
+
+#randomJoke {
+    background-color: #39a9db;
+    color: #f39237;
+}
+
+#randomJoke:hover {
+    box-shadow: 0 0 15px 5px #f39237;
+}
+
+.jokeContainer {
+    background-color: white;
+    padding: 3rem;
+    border-radius: .2rem;
+    border: solid 3px #f39237;
+    margin-top: 5rem;
+    color: hsl(207, 75%, 44%);
+    box-shadow: 10px 12px #f39237;
+}
+
+.id {
+    color: hsl(1, 67%, 51%);
+}
+
+/* Make it so all items are orange */
+#categories a {
+    color: #f39237 !important;
+}
